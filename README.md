@@ -16,3 +16,10 @@
 	
 - Execução:    
    <pre><code>npm start</code></pre>	
+
+- Arquivos em src:
+    - index.js - Programa principal com o servidor Express.
+    - cliente.js - Contêm a classe modelo Cliente a ser persistida.
+    - clienterecurso.js - Contêm os métodos de acesso aos recursos do banco de dados.
+    - ddbconfig.js - Contêm as configurações e conexão com o banco de dados.
+    - servicos.js - Contêm as rotas aos métodos de acesso ao banco de dados.

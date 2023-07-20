@@ -1,5 +1,5 @@
 /**
- * Define a classe modelo Cliente.
+ * Define a classe modelo Cliente a ser persistida.
  */
 
 // Import das bibliotecas

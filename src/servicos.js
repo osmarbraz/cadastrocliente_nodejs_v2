@@ -12,7 +12,7 @@ const {
     inserir,
     alterar,
     excluir
-} = require("./clientedao");
+} = require("./clienterecurso");
 
 // Inicializa o roteador dos serviços
 const router = express.Router();
