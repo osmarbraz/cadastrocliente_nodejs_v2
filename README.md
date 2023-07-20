@@ -9,7 +9,6 @@
 - Utiliza ORM com o Sequelize.
 
 - Dependências:
-    - body-parser,
     - express,
     - sequelize,
     - sqlite3.
