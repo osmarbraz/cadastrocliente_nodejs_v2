@@ -9,7 +9,7 @@ const bodyParser = require('body-parser');
 // Inicializa o servidor
 const app = express();
 // Define a porta do servidor
-const port = 3000;
+const port = 8000;
 
 // Middleware para analisar o corpo da solicitação
 app.use(bodyParser.urlencoded({ extended: false }));
